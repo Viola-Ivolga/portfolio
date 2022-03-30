@@ -63,3 +63,12 @@ h2{
     margin-top: 14px;
     font-size: 14px;
 }
+
+#about .icons{
+    margin-top: 20px;
+    font-size: 30px;
+    
+}
+#about .icons a{
+    color: #000;
+}
